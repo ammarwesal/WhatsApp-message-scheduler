@@ -1,0 +1,4 @@
+venv/
+scheduler.db
+PyWhatKit_DB.txt
+__pycache__/
